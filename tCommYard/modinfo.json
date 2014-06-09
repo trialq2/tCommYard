@@ -1,0 +1,18 @@
+{
+    "context": "server",
+    "identifier": "com.pa.trialq.tCommYard",
+    "display_name": "Comm Yard",
+    "description": "Turns the Commander into a static factory",
+    "author": "trialq",
+    "version": "0.1",
+    "build": "67099",
+    "date": "2014/06/09",
+    "signature": "not yet implemented",
+    "category": [
+        "in-game",
+        "server-mod"
+    ],
+    "id": "tCommYard",
+    "priority": 100,
+    "enabled": true
+}
