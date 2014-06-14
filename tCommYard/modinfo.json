@@ -4,9 +4,9 @@
     "display_name": "Comm Yard",
     "description": "Turns the Commander into a static factory",
     "author": "trialq",
-    "version": "0.1",
-    "build": "67099",
-    "date": "2014/06/09",
+    "version": "0.1.1",
+    "build": "67342",
+    "date": "2014/06/14",
     "signature": "not yet implemented",
     "category": [
         "in-game",
