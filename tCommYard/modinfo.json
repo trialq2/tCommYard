@@ -2,17 +2,16 @@
     "context": "server",
     "identifier": "com.pa.trialq.tCommYard",
     "display_name": "Comm Yard",
-    "description": "Turns the Commander into a static factory",
+    "description": "Turns the Commander into the avatar factory, an awesomely quick static factory",
     "author": "trialq",
-    "version": "0.1.4",
-    "build": "71459",
-    "date": "2014/09/03",
+    "version": "0.1.5",
+    "build": "72332",
+    "date": "2014/09/17",
     "signature": "not yet implemented",
     "category": [
         "in-game",
         "server-mod"
     ],
-    "id": "tCommYard",
     "priority": 100,
     "enabled": true
 }
