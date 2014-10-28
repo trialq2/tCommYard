@@ -4,9 +4,9 @@
     "display_name": "Comm Yard",
     "description": "Turns the Commander into the avatar factory, an awesomely quick static factory",
     "author": "trialq",
-    "version": "0.1.5",
-    "build": "72332",
-    "date": "2014/09/17",
+    "version": "0.1.6",
+    "build": "74416",
+    "date": "2014/10/28",
     "signature": "not yet implemented",
     "category": [
         "in-game",
